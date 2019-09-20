@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">StarkAR</string>
-    <string name="facebook_app_id">your app id</string>
-    <string name="fb_login_protocol_scheme">your scheme</string>
-    <!--<string name="facebook_app_id">484803298768257</string>
-    <string name="fb_login_protocol_scheme">fb484803298768257</string>-->
+    <string name="facebook_app_id">replace with your app id</string>
+    <string name="fb_login_protocol_scheme">replace with your protocol scheme</string>
 </resources>
